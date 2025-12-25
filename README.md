@@ -1,5 +1,4 @@
 # Speech-Emotion-Recognition-using-LSTM
-# 🎙️ Speech Emotion Recognition using LSTM
 
 A deep learning–based Speech Emotion Recognition (SER) system built using **LSTM networks** to classify human emotions from speech signals. This project combines multiple benchmark datasets and provides a complete pipeline for training and inference.
 
